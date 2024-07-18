@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Interesting Engineering",
+        "title": "Polar ice melting makes Earth ‘bulkier’ to rotate, causing longer days: Study - Interesting Engineering",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vaW50ZXJlc3RpbmdlbmdpbmVlcmluZy5jb20vc2NpZW5jZS9tZWx0aW5nLWljZS1zaGVldHMtYWZmZWN0aW5nLWVhcnRocy1zcGlu0gEA?oc=5",
+        "urlToImage": "data:image/jpeg;base64,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",
+        "publishedAt": "2024-07-17T06:27:00Z",
+        "content": "As ice melts on the Earth's surface, it slows the planet's rotation and increases the day. ETH Zurich research shows that the slowdown slightly lengthens our days—just a few milliseconds compared to the typical 86,400 seconds. In physics, there's a law called conservation of angular momentum."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DC Rainmaker"
+        },
+        "author": "Ray Maker",
+        "title": "Huge Amazon Prime Day 2024 Sports Tech Deals Tracker! - DC Rainmaker",
+        "description": "It’s back again – Amazon Prime Day…err…Days. That means that most (all?) Amazon country/regional properties are doing pretty substantial deals across the board on all sorts of products for today and tomorrow (July 16th and July 17th). In some ways,",
+        "url": "https://www.dcrainmaker.com/2024/07/amazon-prime-day-deals-sports-tracker.html",
+        "urlToImage": "https://media.dcrainmaker.com/images/2024/07/DCR-AmazonPrimeDay.jpg",
+        "publishedAt": "2024-07-17T05:02:53Z",
+        "content": "Its back again Amazon Prime DayerrDays. That means that most (all?) Amazon country/regional properties are doing pretty substantial deals across the board on all sorts of products for today and tomor… [+17894 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNBC",
+        "title": "HSBC appoints Georges Elhedery as group CEO starting Sept. 2 - CNBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTcvaHNiYy1hcHBvaW50cy1nZW9yZ2VzLWVsaGVkZXJ5LWFzLWdyb3VwLWNlby1zdGFydGluZy1zZXB0LTIuaHRtbNIBZGh0dHBzOi8vd3d3LmNuYmMuY29tL2FtcC8yMDI0LzA3LzE3L2hzYmMtYXBwb2ludHMtZ2Vvcmdlcy1lbGhlZGVyeS1hcy1ncm91cC1jZW8tc3RhcnRpbmctc2VwdC0yLmh0bWw?oc=5",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9e35/live/8f21f490-4395-11ef-9b44-55b14f49e9b4.jpg",
+        "publishedAt": "2024-07-17T04:36:57Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "King's Speech: Keir Starmer seeks to turn promises into reality - BBC.com",
+        "description": "The BBC's political editor Chris Mason on why Labour wants to make the most of its honeymoon period.",
+        "url": "https://www.bbc.com/news/articles/cger4p12vkzo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4dc0/live/641e7e60-4405-11ef-96a8-e710c6bfc866.jpg",
+        "publishedAt": "2024-07-17T04:19:21Z",
+        "content": "When there is a change of government, there is a dizzying hokey cokey of changing job titles.\r\nEven if the winner of the election was not wildly surprising and even for those of us who spend our prof… [+2691 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KCRA Sacramento"
+        },
+        "author": "Lindsay Weber",
+        "title": "Group files lawsuit challenging California's transgender parental notification ban in schools - KCRA Sacramento",
+        "description": "A national litigation firm filed a lawsuit against Gov. Gavin Newsom on Tuesday, challenging a new law that prohibits school districts from having policies that require parents to be notified if their child identifies as transgender.",
+        "url": "https://www.kcra.com/article/lawsuit-california-transgender-parental-notification-ban/61617913",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gavin-newsom-may-revise-645ee67eb2766.jpg?crop=0.962xw:1.00xh;0.0196xw,0&resize=1200:*",
+        "publishedAt": "2024-07-17T04:06:00Z",
+        "content": "A national litigation firm filed a lawsuit against Gov. Gavin Newsom on Tuesday, challenging a new law that prohibits school districts from having policies that require parents to be notified if thei… [+1843 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Nicole Sganga, Sarah Lynch Baldwin",
+        "title": "Live Updates: Trump rally shooting investigation continues as new details emerge about assassination attempt - CBS News",
+        "description": "The FBI is investigating whether the shooter was a politically motivated homegrown domestic violent extremist, and investigators are combing through his background.",
+        "url": "https://www.cbsnews.com/live-updates/trump-rally-shooting-investigation/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/07/14/2c5b84eb-5cb5-4303-8780-629278986088/thumbnail/1200x630/f2ca83d40e1518f110b92d91da5225f6/gettyimages-2161369224.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d",
+        "publishedAt": "2024-07-17T03:56:00Z",
+        "content": "U.S. intelligence recently detected an Iranian plot against former President Donald Trump, and the information was shared with the Secret Service before Saturday's event in Pennsylvania, two U.S. off… [+1924 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WABC-TV"
+        },
+        "author": null,
+        "title": "Meteor may be responsible for loud boom heard in Staten Island, Brooklyn and Queens - WABC-TV",
+        "description": "NASA has estimated that a meteor entered the atmosphere and disintegrated above the New York City metropolitan area earlier on Tuesday, according to officials.",
+        "url": "https://abc7ny.com/post/loud-boom-nj-nyc-noise-staten-island-brooklyn-queens/15062828/",
+        "urlToImage": "https://cdn.abcotvs.com/dip/images/15063026_071624-wabc-ap-statue-of-liberty-skyline-img.jpg?w=1600",
+        "publishedAt": "2024-07-17T03:54:55Z",
+        "content": "NEW YORK (WABC) -- Could a meteor be the cause of a loud boom that was heard in parts of New York City and northern New Jersey?\r\nNew York City officials began checking out reports in Staten Island, B… [+3128 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Jorge Castillo",
+        "title": "1st-time All-Star Duran shines in MVP effort for AL - ESPN",
+        "description": "Boston's Jarren Duran, the All-Star MVP, hit a tiebreaking two-run homer in the fifth inning and the American League beat the National League 5-3 on Tuesday night for its 10th win in the past 11 All-Star Games.",
+        "url": "https://www.espn.com/mlb/story/_/id/40578605/red-sox-jarren-duran-2-run-homer-powers-american-league-win-mlb-all-star-game",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0717%2Fr1359634_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-07-17T03:02:00Z",
+        "content": "ARLINGTON, Texas -- On a night when Paul Skenes, Major League Baseball's pitching phenom, toed the rubber for a historic All-Star Game start, and Shohei Ohtani, the sport's brightest global superstar… [+7375 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Jack Harris",
+        "title": "Shohei Ohtani's three-run blast caps memorable All-Star week for Dodgers - Yahoo Sports",
+        "description": "A night after Teoscar Hernández won the Home Run Derby, Shohei Ohtani hits a three-run home run before the American League prevails in the MLB All-Star Game.",
+        "url": "https://sports.yahoo.com/shohei-ohtanis-three-run-blast-024839360.html",
+        "urlToImage": "https://media.zenfs.com/en/la_times_articles_853/d87e80a5a2bcd748831661c03419f06e",
+        "publishedAt": "2024-07-17T02:48:00Z",
+        "content": "Dodgers star Shohei Ohtani hits a three-run home run during the third inning at the MLB All-Star Game on Tuesday. (LM Otero / Associated Press)\r\nShohei Ohtani wasn't able to participate in this weeks… [+6944 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JAKE OFFENHARTZ",
+        "title": "Out-of-state officers shot and killed a man wielding two knives blocks away from the RNC, police say - The Associated Press",
+        "description": "Milwaukee's police chief says five Ohio police officers in Wisconsin for the Republican National Convention shot at a man who was wielding two knives near the convention, killing him. Milwaukee Chief Jeffrey Norman said Tuesday at a news conference that the m…",
+        "url": "https://apnews.com/article/republican-national-convention-milwaukee-police-shooting-columbus-2a85bd8dd3be69500e5c0992fb302343",
+        "urlToImage": "https://dims.apnews.com/dims4/default/3c7cdb0/2147483647/strip/true/crop/5031x2830+0+263/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B2%2F%2C%20%2F26%2C%2048%2C%20-16%2C%20-32%2C%20-39%2C%20-59%2C%2029%2C%2077%2C%2091%2C%20-30%2C%20-39%2C%20-68%2C%20-116%2C%2031%2C%20-16%2C%20113%2C%2089%2C%20-43%2C%20127%2C%20-73%2C%20-11%2C%2093%2C%20-92%2C%20-115%2C%2081%2C%20122%2C%20-93%5D%2Fda83287507e6425cb51e583247ac3678",
+        "publishedAt": "2024-07-17T02:38:00Z",
+        "content": "MILWAUKEE (AP) Ohio police officers in Wisconsin for the Republican National Convention shot and killed a man who was wielding two knives near the convention, Milwaukees police chief said Tuesday.\r\nF… [+3682 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Lena H. Sun",
+        "title": "Six Colorado workers contracted bird flu, the most human cases in a state - The Washington Post",
+        "description": "Excessive heat made it hard for poultry workers to wear goggles and masks while culling chickens on a farm experiencing an H5N1 outbreak.",
+        "url": "https://www.washingtonpost.com/health/2024/07/16/bird-flu-colorado-poultry-cow/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PWCA7DUYUYWIZZZXYIVREPHFKA.JPG&w=1440",
+        "publishedAt": "2024-07-17T02:33:01Z",
+        "content": "Bird flu has infected six farmworkers in Colorado this month the most in any state as health officials stressed the importance of preparedness to contain the H5N1 virus spreading in dairy herds and p… [+6810 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "WAFAA SHURAFA",
+        "title": "Israeli strikes in southern, central Gaza kill more than 60 Palestinians, including in 'safe zone' - The Associated Press",
+        "description": "Israeli airstrikes have killed more than 60 Palestinians in southern and central Gaza, including a blast that hit an Israeli-declared “safe zone” crowded with thousands of displaced people. The day’s deadliest strike came Tuesday afternoon, hitting near a gas…",
+        "url": "https://apnews.com/article/israel-palestinians-hamas-war-news-07-16-2024-0cff821823185af16fb2ec5ee8e5c986",
+        "urlToImage": "https://dims.apnews.com/dims4/default/8a9d8ba/2147483647/strip/true/crop/6957x3913+0+362/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F%5B7%2F5%2C%2F%2025%2C%20121%2C%20114%2C%20-54%2C%20-51%2C%20-11%2C%2073%2C%2070%2C%20-126%2C%20-64%2C%20107%2C%2085%2C%20-74%2C%20-79%2C%207%2C%20-41%2C%20-121%2C%20-53%2C%20-91%2C%2034%2C%20-93%2C%2050%2C%20-52%2C%20-117%2C%20106%2C%2023%2C%20105%5D%2F1c4c2d0ac0894471a1c0b803f7dd1f19",
+        "publishedAt": "2024-07-17T02:22:00Z",
+        "content": "DEIR AL-BALAH, Gaza Strip (AP) Israeli airstrikes killed more than 60 Palestinians in southern and central Gaza overnight and into Tuesday, including one that struck an Israeli-declared safe zone cro… [+5591 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBC Chicago"
+        },
+        "author": "NBC Chicago Staff",
+        "title": "At least 5 tornadoes struck Chicago, suburbs during Monday severe storms - NBC Chicago",
+        "description": "The National Weather Service is continuing their work in determining how many tornadoes hit the Chicago area on Monday night, and at least one of those twisters…",
+        "url": "https://www.nbcchicago.com/weather/at-least-5-tornadoes-struck-chicago-suburbs-during-monday-severe-storms/3491861/",
+        "urlToImage": "https://media.nbcchicago.com/2022/08/chicago-storm-generic.png?resize=1200%2C675&quality=85&strip=all",
+        "publishedAt": "2024-07-17T01:56:45Z",
+        "content": "The National Weather Service is continuing their work in determining how many tornadoes hit the Chicago area on Monday night, and at least one of those twisters hit downtown Chicago.\r\nAccording to pr… [+1385 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Jolie Lash, Meredith Deliso",
+        "title": "'Rust' armorer Hannah Gutierrez seeks new trial after dismissal of Alec Baldwin's case - ABC News",
+        "description": "Gutierrez was found guilty in March of involuntary manslaughter.",
+        "url": "https://abcnews.go.com/US/rust-armorer-hannah-gutierrez-seeks-new-trial-after/story?id=112012187",
+        "urlToImage": "https://i.abcnewsfe.com/a/79fec8c1-505a-48ee-a613-961b679204ca/hannah-gutierrez-mo_1715705665399_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-07-17T01:41:06Z",
+        "content": "Lawyers for \"Rust\" armorer Hannah Gutierrez on Tuesday night filed an expedited motion in the Santa Fe First Judicial District Court of New Mexico for a new trial or dismissal of the case against her… [+1823 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Antoinette Radford, Maureen Chowdhury, Aditi Sangal, Elise Hammond, Tori B. Powell, Jack Forrest, Tami Luhby, Piper HudspethBlackburn, Danya Gainor, Elizabeth Wolfe, Danya Gainor",
+        "title": "Live updates: 2024 Republican National Convention - CNN",
+        "description": "Notable past GOP rivals of Donald Trump took the stage Tuesday on the second night of the Republican National Convention to push for his reelection bid as he watched in the arena. Follow here for the latest live news updates, analysis and more.",
+        "url": "https://www.cnn.com/politics/live-news/rnc-republican-national-convention-07-16-24/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240716-haley-split-exlarge16x9.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-07-17T01:35:00Z",
+        "content": "Police fatally shot a man Tuesday about a mile away from the main Republican National Convention venue in Milwaukee, CNN affiliate WISN reported. \r\nWitnesses told the station that two men were fighti… [+2138 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "USA TODAY",
+        "title": "Mega Millions winning numbers for July 16 drawing: Jackpot climbs to $226 million - USA TODAY",
+        "description": null,
+        "url": "https://www.usatoday.com/story/money/lottery/2024/07/16/mega-millions-winning-numbers/74433872007/",
+        "urlToImage": null,
+        "publishedAt": "2024-07-17T01:03:01Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Evan Perez, Zachary Cohen, Natasha Bertrand, Kylie Atwood, Kristen Holmes",
+        "title": "Exclusive: Secret Service ramped up security after intel of Iran plot to assassinate Trump; no known connection to shooting - CNN",
+        "description": "US authorities obtained intelligence from a human source in recent weeks on a plot by Iran to try to assassinate Donald Trump, a development that led to the Secret Service increasing security around the former president in recent weeks, multiple people briefe…",
+        "url": "https://www.cnn.com/2024/07/16/politics/iran-plot-assassinate-trump-secret-service/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24195841316454.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-07-17T01:01:00Z",
+        "content": "US authorities obtained intelligence from a human source in recent weeks on a plot by Iran to try to assassinate Donald Trump, a development that led to the Secret Service increasing security around … [+6673 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Bernie Zilio",
+        "title": "Christina Hall and estranged husband Josh ‘had issues in the marriage’ before filing for divorce: report - Page Six",
+        "description": "Christina and Josh reportedly experienced their fair share of marital problems “for quite some time” before heading to court.",
+        "url": "https://pagesix.com/2024/07/16/entertainment/christina-and-josh-hall-had-issues-in-the-marriage-before-filing-for-divorce-report/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/85559355.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-07-17T01:01:00Z",
+        "content": "Josh and Christina Hall reportedly experienced their fair share of marital problems long before filing for divorce. Instagram / @unbrokenjosh\r\nChristina Hall and her estranged husband, Josh Hall, rep… [+3831 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "NBC Sports",
+        "title": "Quinn Meinerz agrees to four-year extension with Broncos - NBC Sports",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vbmZsL3Byb2Zvb3RiYWxsdGFsay9ydW1vci1taWxsL25ld3MvcXVpbm4tbWVpbmVyei1hZ3JlZXMtdG8tZm91ci15ZWFyLWV4dGVuc2lvbi13aXRoLWJyb25jb3PSAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-07-17T00:54:09Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "JD Vance's 'Hillbilly Elegy' becomes political lightning rod - BBC.com",
+        "description": "Memoir has become unavoidable on social media since he was picked as Trump's running mate.",
+        "url": "https://www.bbc.com/news/articles/cpv3x4xrq44o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9e35/live/8f21f490-4395-11ef-9b44-55b14f49e9b4.jpg",
+        "publishedAt": "2024-07-17T00:44:15Z",
+        "content": "As American voters start to familiarise themselves with Donald Trump's newly announced vice-presidential candidate Ohio Senator JD Vance it is nearly impossible to avoid his infamous memoir. \r\nWritte… [+2010 chars]"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+.newsItem {
+    margin: -34px 0;
+    width: 100%;
+    height: 100%;
+    background-color: #212121;
+}
+
+h1 {
+    padding: 50px 100px;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+.news_items {
+    background-color: black;
+    border-radius: 30px;
+    margin: 0 100px;
+}
